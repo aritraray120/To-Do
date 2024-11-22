@@ -8,7 +8,6 @@ A simple and efficient To-Do application for managing daily tasks. Users can add
 - Add tasks to your to-do list
 - Delete tasks when no longer needed
 - Mark tasks as done with a single click
-- Responsive design for seamless use across devices
 
 ## Technologies Used
 
