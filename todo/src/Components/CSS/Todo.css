@@ -1,15 +1,19 @@
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
 .todo {
-    width: 600px;
-    min-height: 732px;
+    width: 43%;
+    min-height: 80%;
     border-radius: 20px;
     background: #fff;
     margin: auto;
-    margin-top: 174px;
     display: flex;
     flex-direction: column;
     padding: 0px 44px;
     padding-bottom: 30px;
-    margin-bottom: 100px;
 }
 
 .todo-header {
@@ -48,7 +52,7 @@
     align-items: center;
     margin-left: -100px;
     color: #fff;
-    font-size: 26px; 
+    font-size: 26px;
     font-weight: 600;
     cursor: pointer;
 
