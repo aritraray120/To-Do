@@ -16,7 +16,7 @@ A simple and efficient To-Do application for managing daily tasks. Users can add
 
 ## Live Demo  
 
-Check out the live application here: https://food-del-iota-eight.vercel.app/
+Check out the live application here: https://to-do-swart-six.vercel.app/
 
 ## Getting Started  
 
