@@ -1,5 +1,5 @@
 
-# To-Do Application  
+# To-Do 
 
 A simple and efficient To-Do application for managing daily tasks. Users can add, delete, and mark tasks as completed, offering a streamlined experience for personal task management.  
 
